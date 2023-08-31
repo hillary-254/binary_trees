@@ -34,7 +34,11 @@ Binary tree is a tree data structure in which each node has at most two children
 | `17-binary_tree_sibling.c` | Find the sibling of a node.     |
 | `18-binary_tree_uncle.c`   | Find the uncle of a node.       |
 | ADVANCED TASKS		| ---------------------------- |
-| --- | --- |
+| `100-binary_trees_ancestor.c`    | Find the common ancestor of two nodes. |
+| `101-binary_tree_levelorder.c`   | Perform level-order traversal.  |
+| `102-binary_tree_is_complete.c`  | Check if a tree is complete.    |
+| `103-binary_tree_rotate_left.c`  | Rotate a tree node leftwards.   |
+| `104-binary_tree_rotate_right.c` | Rotate a tree node rightwards.  |
 
 ---
-#LAST UPDATED: ###
+#LAST UPDATED: 31st August 2023
