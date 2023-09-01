@@ -41,4 +41,4 @@ Binary tree is a tree data structure in which each node has at most two children
 | `104-binary_tree_rotate_right.c` | Rotate a tree node rightwards.  |
 
 ---
-#LAST UPDATED: 31st August 2023
+#LAST UPDATED: 1st September 2023
